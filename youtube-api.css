@@ -1,0 +1,34 @@
+html,
+body, 
+p{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body{
+  padding: 20px;
+  background-color: grey;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+form, p{
+  margin: 20px 0 20px 0;
+}
+p{
+  font-weight: bold;
+}
+a{
+  text-decoration: none;
+  color: black;
+}
+
+input{
+  padding: 5px;
+}
+.youtube-results{
+  padding-left: 0px;
+}
+
